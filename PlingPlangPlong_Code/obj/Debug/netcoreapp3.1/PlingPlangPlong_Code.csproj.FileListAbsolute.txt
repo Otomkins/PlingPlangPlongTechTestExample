@@ -1,0 +1,9 @@
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\bin\Debug\netcoreapp3.1\PlingPlangPlong_Code.deps.json
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\bin\Debug\netcoreapp3.1\PlingPlangPlong_Code.dll
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\bin\Debug\netcoreapp3.1\PlingPlangPlong_Code.pdb
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.csprojAssemblyReference.cache
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.AssemblyInfoInputs.cache
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.AssemblyInfo.cs
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.csproj.CoreCompileInputs.cache
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.dll
+C:\GitHub\2021\PlingPlangPlongTechTestExample\PlingPlangPlong_Code\obj\Debug\netcoreapp3.1\PlingPlangPlong_Code.pdb

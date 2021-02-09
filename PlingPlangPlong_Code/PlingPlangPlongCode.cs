@@ -9,7 +9,7 @@ namespace PlingPlangPlong_Code
         {
             var numFactors = new List<int>();
 
-            for (int i = 0; i <= num; i++)
+            for (int i = 1; i <= num; i++)
             {
                 if (num % i == 0) numFactors.Add(i);
             }
@@ -22,7 +22,7 @@ namespace PlingPlangPlong_Code
             var numFactors = new List<int>();
             var returnString = "";
 
-            for (int i = 0; i <= num; i++)
+            for (int i = 1; i <= num; i++)
             {
                 if (num % i == 0) numFactors.Add(i);
             }
