@@ -5,6 +5,18 @@ namespace PlingPlangPlong_Code
 {
     public class PlingPlangPlongCode
     {
+        public List<int> ReturnFactors(int num)
+        {
+            var numFactors = new List<int>();
+
+            for (int i = 0; i <= num; i++)
+            {
+                if (num % i == 0) numFactors.Add(i);
+            }
+
+            return numFactors;
+        }
+
         public string PlingPlangPlong(int num)
         {
             var numFactors = new List<int>();
